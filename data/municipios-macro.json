@@ -1,0 +1,2578 @@
+[
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "AGUAS DE SAO PEDRO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "AMERICO BRASILIENSE"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "ANALANDIA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "ARARAQUARA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "ARARAS"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "ARTUR NOGUEIRA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "BOA ESPERANCA DO SUL"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "BORBOREMA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "BROTAS"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "CANDIDO RODRIGUES"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "CAPIVARI"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "CHARQUEADA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "CONCHAL"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "CORDEIROPOLIS"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "CORUMBATAI"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "COSMOPOLIS"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "DESCALVADO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "DOBRADA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "DOURADO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "FERNANDO PRESTES"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "GAVIAO PEIXOTO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "IBATE"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "IBITINGA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "IPEUNA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "IRACEMAPOLIS"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "ITAPOLIS"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "ITIRAPINA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "LEME"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "LIMEIRA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "MATAO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "MOMBUCA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "MOTUCA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "NOVA EUROPA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "PIRACICABA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "PIRASSUNUNGA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "PORTO FERREIRA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "RAFARD"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "RIBEIRAO BONITO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "RINCAO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "RIO CLARO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "RIO DAS PEDRAS"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SALTINHO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SANTA BARBARA D'OESTE"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SANTA CRUZ DA CONCEICAO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SANTA ERNESTINA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SANTA GERTRUDES"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SANTA LUCIA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SANTA MARIA DA SERRA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SANTA RITA DO PASSA QUATRO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SAO CARLOS"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "SAO PEDRO"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "TABATINGA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "TAQUARITINGA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "TORRINHA"
+    },
+    {
+      "macro": "MACRO 1-A",
+      "municipio": "TRABIJU"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "AGUAI"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "AGUAS DA PRATA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "AGUAS DE LINDOIA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "AMERICANA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "AMPARO"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ATIBAIA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "BOM JESUS DOS PERDOES"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "BRAGANCA PAULISTA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "CABREUVA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "CACONDE"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "CAMPINAS"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "CAMPO LIMPO PAULISTA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "CASA BRANCA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "DIVINOLANDIA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ELIAS FAUSTO"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ENGENHEIRO COELHO"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ESPIRITO SANTO DO PINHAL"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ESTIVA GERBI"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "HOLAMBRA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "HORTOLANDIA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "INDAIATUBA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ITAPIRA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ITATIBA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ITOBI"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "ITUPEVA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "JAGUARIUNA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "JARINU"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "JOANOPOLIS"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "JUNDIAI"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "LINDOIA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "LOUVEIRA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "MOCOCA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "MOGI-GUACU"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "MOGI-MIRIM"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "MONTE ALEGRE DO SUL"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "MONTE MOR"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "MORUNGABA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "NAZARE PAULISTA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "NOVA ODESSA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "PAULINIA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "PEDRA BELA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "PEDREIRA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "PINHALZINHO"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "PIRACAIA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SANTA CRUZ DAS PALMEIRAS"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SANTO ANTONIO DE POSSE"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SANTO ANTONIO DO JARDIM"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SAO JOAO DA BOA VISTA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SAO JOSE DO RIO PARDO"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SAO SEBASTIAO DA GRAMA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SERRA NEGRA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SOCORRO"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "SUMARE"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "TAMBAU"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "TAPIRATIBA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "TUIUTI"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "VALINHOS"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "VARGEM"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "VARGEM GRANDE DO SUL"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "VARZEA PAULISTA"
+    },
+    {
+      "macro": "MACRO 1-B",
+      "municipio": "VINHEDO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ADAMANTINA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ADOLFO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ALFREDO MARCONDES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ALVARES FLORENCE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ALVARES MACHADO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "AMERICO DE CAMPOS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ANDRADINA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ANHUMAS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "APARECIDA D'OESTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ARIRANHA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ASPASIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "AURIFLAMA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "BADY BASSITT"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "BALSAMO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "CAIABU"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "CAIUA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "CARDOSO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "CASTILHO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "CATANDUVA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "CATIGUA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "CEDRAL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "COSMORAMA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "DIRCE REIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "DOLCINOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "DRACENA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ELISIARIO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "EMILIANOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ESTRELA D'OESTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ESTRELA DO NORTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "EUCLIDES DA CUNHA PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "FERNANDOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "FLORA RICA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "FLOREAL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "FLORIDA PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "GASTAO VIDIGAL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "GENERAL SALGADO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "GUAPIACU"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "GUARACAI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "GUARANI D'OESTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "GUZOLANDIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "IBIRA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "IEPE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ILHA SOLTEIRA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "INDIANA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "INDIAPORA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "INUBIA PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "IPIGUA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "IRAPUA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "IRAPURU"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ITAJOBI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ITAPURA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "JACI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "JALES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "JOSE BONIFACIO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "JUNQUEIROPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "LUCELIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MACEDONIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MAGDA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MARABA PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MARAPOAMA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MARIAPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MARINOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MARTINOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MENDONCA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MERIDIANO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MESOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MIRA ESTRELA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MIRANDOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MIRANTE DO PARANAPANEMA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MIRASSOL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MIRASSOLANDIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MONCOES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MONTE APRAZIVEL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MONTE CASTELO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "MURUTINGA DO SUL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NANTES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NARANDIBA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NEVES PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NHANDEARA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NIPOA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NOVA ALIANCA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NOVA CANAA PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NOVA CASTILHO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NOVA GRANADA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NOVA GUATAPORANGA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NOVA INDEPENDENCIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NOVAIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "NOVO HORIZONTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ONDA VERDE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ORINDIUVA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "OSVALDO CRUZ"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "OURO VERDE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "OUROESTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PACAEMBU"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PALESTINA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PALMARES PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PALMEIRA D'OESTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PANORAMA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PARAISO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PARANAPUA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PARISI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PAULICEIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PAULO DE FARIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PEDRANOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PEREIRA BARRETO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PINDORAMA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PIQUEROBI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PIRAPOZINHO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "POLONI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PONTALINDA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PONTES GESTAL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "POPULINA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "POTIRENDABA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PRACINHA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PRESIDENTE BERNARDES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PRESIDENTE EPITACIO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PRESIDENTE PRUDENTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "PRESIDENTE VENCESLAU"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "RANCHARIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "REGENTE FEIJO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "RIBEIRAO DOS INDIOS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "RIOLANDIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "ROSANA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "RUBINEIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SAGRES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SALES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANDOVALINA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTA ADELIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTA ALBERTINA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTA CLARA D'OESTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTA FE DO SUL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTA MERCEDES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTA RITA D'OESTE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTA SALETE"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTANA DA PONTE PENSA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTO ANASTACIO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SANTO EXPEDITO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SAO FRANCISCO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SAO JOAO DAS DUAS PONTES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SAO JOAO DE IRACEMA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SAO JOAO DO PAU D'ALHO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SAO JOSE DO RIO PRETO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SEBASTIANOPOLIS DO SUL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "SUD MENNUCCI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "TABAPUA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "TACIBA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "TANABI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "TARABAI"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "TEODORO SAMPAIO"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "TRES FRONTEIRAS"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "TUPI PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "TURMALINA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "UBARANA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "UCHOA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "UNIAO PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "URANIA"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "URUPES"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "VALENTIM GENTIL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "VITORIA BRASIL"
+    },
+    {
+      "macro": "MACRO 2-A",
+      "municipio": "VOTUPORANGA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ALTAIR"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ALTINOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ALTO ALEGRE"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ARACATUBA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ARAMINA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "AVANHANDAVA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BARBOSA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BARRETOS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BARRINHA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BATATAIS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BEBEDOURO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BENTO DE ABREU"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BILAC"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BIRIGUI"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BRAUNA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BREJO ALEGRE"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BRODOWSKI"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BURITAMA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "BURITIZAL"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "CAJOBI"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "CAJURU"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "CASSIA DOS COQUEIROS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "CLEMENTINA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "COLINA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "COLOMBIA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "COROADOS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "CRAVINHOS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "CRISTAIS PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "DUMONT"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "EMBAUBA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "FRANCA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "GABRIEL MONTEIRO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "GLICERIO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "GUAIRA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "GUARA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "GUARACI"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "GUARARAPES"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "GUARIBA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "GUATAPARA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ICEM"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "IGARAPAVA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "IPUA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ITIRAPUA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ITUVERAVA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "JABORANDI"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "JABOTICABAL"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "JARDINOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "JERIQUARA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "LAVINIA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "LOURDES"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "LUIS ANTONIO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "LUIZIANIA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "MACAUBAL"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "MIGUELOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "MONTE ALTO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "MONTE AZUL PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "MORRO AGUDO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "NOVA LUZITANIA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "NUPORANGA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "OLIMPIA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ORLANDIA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PATROCINIO PAULISTA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PEDREGULHO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PENAPOLIS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PIACATU"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PIRANGI"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PITANGUEIRAS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PLANALTO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PONTAL"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "PRADOPOLIS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "RESTINGA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "RIBEIRAO CORRENTE"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "RIBEIRAO PRETO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "RIFAINA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "RUBIACEA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SALES OLIVEIRA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SALMOURAO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SANTA CRUZ DA ESPERANCA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SANTA ROSA DE VITERBO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SANTO ANTONIO DA ALEGRIA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SANTO ANTONIO DO ARACANGUA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SANTOPOLIS DO AGUAPEI"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SAO JOAQUIM DA BARRA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SAO JOSE DA BELA VISTA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SAO SIMAO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SERRA AZUL"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SERRANA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SERTAOZINHO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SEVERINIA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "SUZANAPOLIS"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "TAIACU"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "TAIUVA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "TAQUARAL"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "TERRA ROXA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "TURIUBA"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "VALPARAISO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "VIRADOURO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "VISTA ALEGRE DO ALTO"
+    },
+    {
+      "macro": "MACRO 2-B",
+      "municipio": "ZACARIAS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "AGUAS DE SANTA BARBARA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "AGUDOS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ALAMBARI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ALUMINIO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ALVARO DE CARVALHO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ALVINLANDIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ANGATUBA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ANHEMBI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ARACARIGUAMA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ARACOIABA DA SERRA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ARANDU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ARCO-IRIS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "AREALVA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "AREIOPOLIS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ASSIS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "AVAI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "AVARE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BALBINOS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BARIRI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BARRA BONITA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BASTOS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BAURU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BERNARDINO DE CAMPOS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BOCAINA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BOFETE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BOITUVA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BORA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BORACEIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BOREBI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BOTUCATU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "BURI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CABRALIA PAULISTA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CAFELANDIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CAMPINA DO MONTE ALEGRE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CAMPOS NOVOS PAULISTA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CANDIDO MOTA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CANITAR"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CAPELA DO ALTO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CERQUEIRA CESAR"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CERQUILHO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CESARIO LANGE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CHAVANTES"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CONCHAS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "CRUZALIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "DOIS CORREGOS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "DUARTINA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ECHAPORA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ESPIRITO SANTO DO TURVO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "FARTURA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "FERNAO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "FLORINEA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "GALIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "GARCA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "GETULINA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "GUAICARA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "GUAIMBE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "GUARANTA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "GUAREI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "HERCULANDIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "IACANGA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "IACRI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "IARAS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "IBIRAREMA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "IBIUNA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "IGARACU DO TIETE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "IPAUSSU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "IPERO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ITAI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ITAJU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ITAPETININGA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ITAPUI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ITATINGA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ITU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "JAU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "JOAO RAMALHO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "JULIO MESQUITA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "JUMIRIM"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "LARANJAL PAULISTA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "LENCOIS PAULISTA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "LINS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "LUCIANOPOLIS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "LUPERCIO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "LUTECIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "MACATUBA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "MAIRINQUE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "MANDURI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "MARACAI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "MARILIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "MINEIROS DO TIETE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "OCAUCU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "OLEO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "ORIENTE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "OSCAR BRESSANE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "OURINHOS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PALMITAL"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PARAGUACU PAULISTA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PARANAPANEMA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PARAPUA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PARDINHO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PAULISTANIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PEDERNEIRAS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PEDRINHAS PAULISTA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PEREIRAS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PIEDADE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PILAR DO SUL"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PIRAJU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PIRAJUI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PIRATININGA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PLATINA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "POMPEIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PONGAI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PORANGABA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PORTO FELIZ"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PRATANIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PRESIDENTE ALVES"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "PROMISSAO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "QUADRA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "QUATA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "QUEIROZ"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "QUINTANA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "REGINOPOLIS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "RIBEIRAO DO SUL"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "RINOPOLIS"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SABINO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SALTO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SALTO DE PIRAPORA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SALTO GRANDE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SANTA CRUZ DO RIO PARDO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SAO MANUEL"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SAO MIGUEL ARCANJO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SAO PEDRO DO TURVO"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SAO ROQUE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SARAPUI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SARUTAIA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "SOROCABA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TAGUAI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TAPIRAI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TAQUARITUBA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TARUMA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TATUI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TEJUPA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TIETE"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TIMBURI"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TORRE DE PEDRA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "TUPA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "UBIRAJARA"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "URU"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "VERA CRUZ"
+    },
+    {
+      "macro": "MACRO 3",
+      "municipio": "VOTORANTIM"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "APARECIDA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "ARAPEI"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "AREIAS"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "BANANAL"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "CACAPAVA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "CACHOEIRA PAULISTA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "CAMPOS DO JORDAO"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "CANAS"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "CARAGUATATUBA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "CRUZEIRO"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "CUNHA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "GUARATINGUETA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "IGARATA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "ILHABELA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "JACAREI"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "JAMBEIRO"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "LAGOINHA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "LAVRINHAS"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "LORENA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "MONTEIRO LOBATO"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "NATIVIDADE DA SERRA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "PARAIBUNA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "PINDAMONHANGABA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "PIQUETE"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "POTIM"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "QUELUZ"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "REDENCAO DA SERRA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "ROSEIRA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "SANTA BRANCA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "SANTO ANTONIO DO PINHAL"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "SAO BENTO DO SAPUCAI"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "SAO JOSE DO BARREIRO"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "SAO JOSE DOS CAMPOS"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "SAO LUIS DO PARAITINGA"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "SAO SEBASTIAO"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "SILVEIRAS"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "TAUBATE"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "TREMEMBE"
+    },
+    {
+      "macro": "MACRO 4-A",
+      "municipio": "UBATUBA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "APIAI"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "BARAO DE ANTONINA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "BARRA DO CHAPEU"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "BARRA DO TURVO"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "BERTIOGA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "BOM SUCESSO DE ITARARE"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "CAJATI"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "CANANEIA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "CAPAO BONITO"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "CORONEL MACEDO"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "CUBATAO"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ELDORADO"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "GUAPIARA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "GUARUJA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "IGUAPE"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ILHA COMPRIDA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "IPORANGA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ITABERA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ITANHAEM"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ITAOCA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ITAPEVA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ITAPIRAPUA PAULISTA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ITAPORANGA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ITARARE"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "ITARIRI"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "JACUPIRANGA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "JUQUIA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "MIRACATU"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "MONGAGUA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "NOVA CAMPINA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "PARIQUERA-ACU"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "PEDRO DE TOLEDO"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "PERUIBE"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "PRAIA GRANDE"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "REGISTRO"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "RIBEIRA"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "RIBEIRAO BRANCO"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "RIBEIRAO GRANDE"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "RIVERSUL"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "SANTOS"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "SAO VICENTE"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "SETE BARRAS"
+    },
+    {
+      "macro": "MACRO 4-B",
+      "municipio": "TAQUARIVAI"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "ARUJA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "BARUERI"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "BIRITIBA-MIRIM"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "CAIEIRAS"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "CAJAMAR"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "CARAPICUIBA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "COTIA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "DIADEMA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "EMBU DAS ARTES"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "EMBU-GUACU"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "FERRAZ DE VASCONCELOS"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "FRANCISCO MORATO"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "FRANCO DA ROCHA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "GUARAREMA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "GUARULHOS"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "ITAPECERICA DA SERRA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "ITAPEVI"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "ITAQUAQUECETUBA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "JANDIRA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "JUQUITIBA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "MAIRIPORA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "MAUA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "MOGI DAS CRUZES"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "OSASCO"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "PIRAPORA DO BOM JESUS"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "POA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "RIBEIRAO PIRES"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "RIO GRANDE DA SERRA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "SALESOPOLIS"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "SANTA ISABEL"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "SANTANA DE PARNAIBA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "SANTO ANDRE"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "SAO BERNARDO DO CAMPO"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "SAO CAETANO DO SUL"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "SAO LOURENCO DA SERRA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "SUZANO"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "TABOAO DA SERRA"
+    },
+    {
+      "macro": "MACRO 5-C",
+      "municipio": "VARGEM GRANDE PAULISTA"
+    }
+  ]
