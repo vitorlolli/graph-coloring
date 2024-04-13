@@ -66,7 +66,7 @@ while (check) {
     ordenado.forEach(node => {
         const com_mesma_cor = Object.entries(relacao_cores).filter(([_, cor]) => cor == cont_cor).map(([n]) => n)
         const check_vizinho_com_mesma_cor = com_mesma_cor.every(n => !grafo.hasEdge(node, n))
-        if (relacao_cores[node] == undefined && !grafo.hasEdge(node, primeiro_incolor) && check_vizinho_com_mesma_cor) {
+        if (relacao_cores[node] == undefined && check_vizinho_com_mesma_cor) {
             relacao_cores[node] = cont_cor
         }
     })

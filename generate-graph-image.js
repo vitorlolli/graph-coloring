@@ -3,106 +3,76 @@ import { JSDOM } from "jsdom"
 import * as d3 from "d3"
 import fs from 'fs'
 
-// const grafo = JSON.parse(fs.readFileSync('./result/estado-sp-municipios-grafo.json'))
-// const nodes = grafo.nodes.map(node => ({ id: node, label: node, x: node.value.position.x, y: node.value.position.y }))
+const data = JSON.parse(fs.readFileSync('./result/estado-sp-municipios-grafo.json'))
+
+const multiply = 800
+const margin = 150
+
+const nodes = data.nodes.map(({ v, value: { position: { x, y } } }) => ({ id: v, x: x * multiply, y: (- y) * multiply }))
+
+const nodesOrdemX = nodes.toSorted((a, b) => a.x > b.x ? 1 : -1)
+const menorX = nodesOrdemX[0].x
+const maiorX = nodesOrdemX[nodesOrdemX.length - 1].x
+const nodesOrdemY = nodes.toSorted((a, b) => a.y > b.y ? 1 : -1)
+const menorY = nodesOrdemY[0].y
+const maiorY = nodesOrdemY[nodesOrdemY.length - 1].y
+
+const links = data.edges.map(({ v, w }) => ({ source: v, target: w }))
 
 const window = new JSDOM(undefined, { pretendToBeVisual: true }).window
 window.d3 = d3.select(window.document)
 
-const graph = {
-    nodes: [
-        { "id": "0", "name": "nytimes", "count": 0, "category": 0 },
-        { "id": "1", "name": "hbo", "count": 1, "category": 1 },
-        { "id": "2", "name": "fenty beauty gloss bomb universal lip luminizer", "count": 1, "category": 1 },
-    ],
-    links: [
-        { "source": "0", "target": "1", "value": 1, "count": 1 },
-        { "source": "0", "target": "2", "value": 1, "count": 1 },
-    ]
-}
+const width = 1000
+const height = 1000
 
-const width = 960
-const height = 600
+d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id(({ id }) => id))
 
 const svg = window.d3
     .select("body")
     .append("div")
     .attr("class", "container")
     .append("svg")
-    .attr("xmlns", "http://www.w3.org/2000/svg")
     .attr("width", width)
     .attr("height", height)
+    .attr("viewBox", [menorX - margin, menorY - margin, (maiorX - menorX) + (margin * 2), (maiorY - menorY) + (margin * 2)])
 
-const simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function (d) { return d.id; }))
-    .force('charge', d3.forceManyBody()
-        .strength(-1900)
-        .theta(0.5)
-        .distanceMax(1500)
-    )
-    .force('collision', d3.forceCollide().radius(function (d) {
-        return d.radius
-    }))
-    .force("center", d3.forceCenter())
-
-var link = svg.append("g")
-    .selectAll("line")
-    .data(graph.links)
-    .enter().append("line")
-
-link
-    .style("stroke", "#aaa");
-
-var node = svg.append("g")
-    .attr("class", "nodes")
+svg.append("g")
     .selectAll("circle")
-    .data(graph.nodes)
-    .enter().append("circle")
-    //I made the article/source nodes larger than the entity nodes
-    .attr("r", function (d) { return d.category == 0 ? 45 : 35 });
+    .data(nodes)
+    .join("circle")
+    .attr('id', d => d.id)
+    .attr("r", 30)
+    .attr("fill", d => 'green')
+    .attr("cx", d => {
+        return d.x
+    })
+    .attr("cy", d => {
+        return d.y
+    })
 
-node
-    .style("fill", "#cccccc")
-    .style("fill-opacity", "0.9")
-    .style("stroke", "#424242")
-    .style("stroke-width", "1px");
-
-var label = svg.append("g")
-    .attr("class", "labels")
-    .selectAll("text")
-    .data(graph.nodes)
-    .enter().append("text")
-    .text(function (d) { return d.name; })
-    .attr("class", "label")
-
-label
-    .style("text-anchor", "middle")
-    .style("color", "red")
-    .style("font-size", "40px");
-
-function ticked() {
-    link
-        .attr("x1", function (d) { return d.source.x; })
-        .attr("y1", function (d) { return d.source.y; })
-        .attr("x2", function (d) { return d.target.x; })
-        .attr("y2", function (d) { return d.target.y; });
-
-    node
-        .attr("cx", function (d) { return d.x + 5; })
-        .attr("cy", function (d) { return d.y - 3; });
-
-    label
-        .attr("x", function (d) { return d.x; })
-        .attr("y", function (d) { return d.y; });
-}
-
-simulation
-    .nodes(graph.nodes)
-    .on("tick", ticked);
-
-simulation.force("link")
-    .links(graph.links);
+svg.append("g")
+    .selectAll("line")
+    .data(links)
+    .enter()
+    .append("line")
+    .attr('id', d => `${d.source.id}-${d.target.id}`)
+    .attr("stroke", "red")
+    .attr("stroke-width", 5)
+    .attr("x1", d => {
+        console.log(d)
+        return d.source.x
+    })
+    .attr("y1", d => {
+        return d.source.y
+    })
+    .attr("x2", d => {
+        return d.target.x
+    })
+    .attr("y2", d => {
+        return d.target.y
+    })
 
 await sharp(Buffer.from(window.d3.select(".container").html()))
     .png()
-    .toFile(`teste.png`)
+    .toFile(`./result/graph.png`)

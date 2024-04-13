@@ -9,6 +9,8 @@ const window = new JSDOM(undefined, { pretendToBeVisual: true }).window
 
 window.d3 = select(window.document)
 
+const margin = 20
+
 const svg = window.d3
     .select("body")
     .append("div")
@@ -17,6 +19,7 @@ const svg = window.d3
     .attr("xmlns", "http://www.w3.org/2000/svg")
     .attr("width", 1000)
     .attr("height", 1000)
+    .attr("viewBox", [0 - margin, 0 - margin, 1000 + (margin * 2), 1000 + (margin * 2)])
     .append("g")
 
 const projection = geoMercator().fitSize([1000, 1000], {
@@ -38,4 +41,4 @@ svg
 
 await sharp(Buffer.from(window.d3.select(".container").html()))
     .png()
-    .toFile(`teste.png`)
+    .toFile(`./result/geojson.png`)

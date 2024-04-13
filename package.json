@@ -12,7 +12,12 @@
   "license": "ISC",
   "dependencies": {
     "@turf/turf": "^6.5.0",
+    "canvas": "^2.11.2",
     "d3": "^7.9.0",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "gifencoder": "^2.0.1",
+    "glob": "^10.3.12",
     "graphlib": "^2.1.8",
     "jsdom": "^24.0.0",
     "sharp": "^0.33.3",
