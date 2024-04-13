@@ -30,7 +30,6 @@ const generateGif = async () => {
     encoder.setQuality(10)
 
     for (let index = 0; index < images.length; index++) {
-        console.log(index)
         const image = images[index]
         const loaded_image = await loadImage(image.relative())
         ctx.drawImage(loaded_image, 0, 0, loaded_image.width, loaded_image.height, 0, 0, canvas.width, canvas.height)
@@ -40,31 +39,12 @@ const generateGif = async () => {
     encoder.finish()
 }
 
-const generateVideo = (
-    framesFilepath,
-    outputFilepath,
-    frameRate,
-) => new Promise((resolve, reject) => {
+const generateVideo = () => new Promise((resolve, reject) => {
     ffmpeg()
-
-        // Tell FFmpeg to stitch all images together in the provided directory
-        .input(framesFilepath)
-        .inputOptions([
-            // Set input frame rate
-            `-framerate ${frameRate}`,
-        ])
-
-        .videoCodec('libx264')
-        .outputOptions([
-            // YUV color space with 4:2:0 chroma subsampling for maximum compatibility with
-            // video players
-            '-pix_fmt yuv420p',
-        ])
-        // Set output frame rate
-        .fps(frameRate)
-
-        // Resolve or reject (throw an error) the Promise once FFmpeg completes
-        .saveToFile(outputFilepath)
+        .input('./result/graph.gif')
+        .noAudio()
+        .outputOptions('-pix_fmt yuv420p')
+        .output(`./result/graph.mp4`)
         // .on('start', function (commandLine) {
         //     console.log('Processing')
         // })
@@ -77,6 +57,7 @@ const generateVideo = (
             }
         })
         .on('error', (error) => reject(new Error(error)))
+        .run()
 })
 
 const data = JSON.parse(fs.readFileSync('./result/estado-sp-municipios-grafo.json'))
@@ -166,8 +147,6 @@ const props = {
     }
 }
 
-const caractersCountSizeChuncks = String(elements_chuncks.length).length
-
 for (let index = 0; index < elements_chuncks.length; index++) {
     const chunk = elements_chuncks[index]
 
@@ -178,13 +157,8 @@ for (let index = 0; index < elements_chuncks.length; index++) {
 
     await sharp(Buffer.from(window.d3.select(".container").html()))
         .png()
-        .toFile(`./frames/graph-frame-${String(index).padStart(caractersCountSizeChuncks, '0')}.png`)
+        .toFile(`./frames/graph-frame-${index}.png`)
 }
 
 await generateGif()
-
-await generateVideo(
-    `./frames/graph-frame-%0${caractersCountSizeChuncks}d.png`,
-    './result/graph.mp4',
-    12
-)
+await generateVideo()
