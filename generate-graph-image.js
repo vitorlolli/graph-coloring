@@ -44,12 +44,8 @@ svg.append("g")
     .attr('id', d => d.id)
     .attr("r", 30)
     .attr("fill", d => 'green')
-    .attr("cx", d => {
-        return d.x
-    })
-    .attr("cy", d => {
-        return d.y
-    })
+    .attr("cx", d => d.x)
+    .attr("cy", d => d.y)
 
 svg.append("g")
     .selectAll("line")
@@ -59,19 +55,10 @@ svg.append("g")
     .attr('id', d => `${d.source.id}-${d.target.id}`)
     .attr("stroke", "red")
     .attr("stroke-width", 5)
-    .attr("x1", d => {
-        console.log(d)
-        return d.source.x
-    })
-    .attr("y1", d => {
-        return d.source.y
-    })
-    .attr("x2", d => {
-        return d.target.x
-    })
-    .attr("y2", d => {
-        return d.target.y
-    })
+    .attr("x1", d => d.source.x)
+    .attr("y1", d => d.source.y)
+    .attr("x2", d => d.target.x)
+    .attr("y2", d => d.target.y)
 
 await sharp(Buffer.from(window.d3.select(".container").html()))
     .png()
